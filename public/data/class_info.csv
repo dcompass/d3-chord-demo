@@ -1,0 +1,55 @@
+taxon_id,rank,organism_name,parent,parent_rank
+1760,class,Actinobacteria <class>,201174,phylum
+2864,class,Dinophyceae,2759,superkingdom
+3027,class,Cryptophyta,2759,superkingdom
+4762,class,Oomycetes,2759,superkingdom
+5752,class,Heterolobosea,2759,superkingdom
+5796,class,Coccidia,5794,phylum
+6020,class,Oligohymenophorea,2759,superkingdom
+6178,class,Trematoda,6157,phylum
+28221,class,Deltaproteobacteria,1224,phylum
+31969,class,Mollicutes,544448,phylum
+33829,class,Spirotrichea,2759,superkingdom
+33836,class,Coscinodiscophyceae,2836,phylum
+35131,class,Labyrinthulomycetes,2759,superkingdom
+35675,class,Pelagophyceae,2759,superkingdom
+42382,class,Hyphochytriomycetes,2759,superkingdom
+67799,class,Thermodesulfobacteria <class>,200940,phylum
+68337,class,Deferribacteres <class>,200930,phylum
+117743,class,Flavobacteriia,976,phylum
+118001,class,Chrysiogenetes <class>,200938,phylum
+119089,class,Chromadorea,6231,phylum
+147554,class,Schizosaccharomycetes,4890,phylum
+155616,class,Tremellomycetes,5204,phylum
+203494,class,Verrucomicrobiae,74201,phylum
+183924,class,Thermoprotei,28889,phylum
+183925,class,Methanobacteria,28890,phylum
+187857,class,Aquificae <class>,200783,phylum
+188708,class,Thermotogae <class>,200918,phylum
+188787,class,Deinococci,1297,phylum
+191410,class,Chlorobia,1090,phylum
+203486,class,Dictyoglomia,68297,phylum
+203490,class,Fusobacteriia,32066,phylum
+203683,class,Planctomycetia,203682,phylum
+203692,class,Spirochaetia,203691,phylum
+203693,class,Nitrospira <class>,40117,phylum
+204429,class,Chlamydiia,204428,phylum
+204430,class,Fibrobacteria,65842,phylum
+204432,class,Acidobacteriia,57723,phylum
+214506,class,Glomeromycetes,214504,phylum
+219685,class,Gemmatimonadetes <class>,142182,phylum
+301297,class,Dehalococcoidia,200795,phylum
+451435,class,Chytridiomycetes,4761,phylum
+451456,class,Neocallimastigomycetes,451455,phylum
+451460,class,Blastocladiomycetes,451459,phylum
+641853,class,Elusimicrobia <class>,74152,phylum
+649775,class,Synergistia,508458,phylum
+693071,class,Caldisericia,67814,phylum
+795747,class,Ignavibacteria,1134404,phylum
+909932,class,Negativicutes,1239,phylum
+1051663,class,Nanohaloarchaea,1462430,phylum
+1293498,class,Nitrospinia,1293497,phylum
+1313211,class,Lentisphaeria,256845,phylum
+1399770,class,Entomophthoromycetes,1264859,phylum
+1663419,class,Fimbriimonadia,67819,phylum
+1853221,class,Balneolia,1853220,phylum

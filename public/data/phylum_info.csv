@@ -1,0 +1,95 @@
+taxon_id,rank,organism_name,parent,parent_rank
+976,phylum,Bacteroidetes <phylum>,2,superkingdom
+1090,phylum,Chlorobi,2,superkingdom
+1117,phylum,Cyanobacteria,2,superkingdom
+1224,phylum,Proteobacteria,2,superkingdom
+1239,phylum,Firmicutes,2,superkingdom
+1297,phylum,Deinococcus-Thermus,2,superkingdom
+2833,phylum,Xanthophyceae,2759,superkingdom
+2836,phylum,Bacillariophyta,2759,superkingdom
+2870,phylum,Phaeophyceae,2759,superkingdom
+3035,phylum,Euglenida,2759,superkingdom
+5747,phylum,Eustigmatophyceae,2759,superkingdom
+5794,phylum,Apicomplexa,2759,superkingdom
+6157,phylum,Platyhelminthes,33208,kingdom
+28889,phylum,Crenarchaeota <phylum>,2157,superkingdom
+28890,phylum,Euryarchaeota,2157,superkingdom
+32066,phylum,Fusobacteria <phylum>,2,superkingdom
+40117,phylum,Nitrospirae,2,superkingdom
+51967,phylum,Candidatus Korarchaeota,2157,superkingdom
+57723,phylum,Acidobacteria <phylum>,2,superkingdom
+62680,phylum,Candidatus Marinimicrobia,2,superkingdom
+65842,phylum,Fibrobacteres <phylum>,2,superkingdom
+67810,phylum,Candidatus Acetothermia,2,superkingdom
+67812,phylum,Candidatus Omnitrophica,2,superkingdom
+67814,phylum,Caldiserica,2,superkingdom
+67818,phylum,Candidatus Atribacteria,2,superkingdom
+67819,phylum,Armatimonadetes,2,superkingdom
+67820,phylum,Candidatus Microgenomates,2,superkingdom
+68297,phylum,Dictyoglomi <phylum>,2,superkingdom
+74015,phylum,Candidatus Latescibacteria,2,superkingdom
+74152,phylum,Elusimicrobia <phylum>,2,superkingdom
+74201,phylum,Verrucomicrobia,2,superkingdom
+142182,phylum,Gemmatimonadetes <phylum>,2,superkingdom
+192989,phylum,Nanoarchaeota,2157,superkingdom
+200783,phylum,Aquificae <phylum>,2,superkingdom
+200795,phylum,Chloroflexi <phylum>,2,superkingdom
+200918,phylum,Thermotogae <phylum>,2,superkingdom
+200930,phylum,Deferribacteres <phylum>,2,superkingdom
+200938,phylum,Chrysiogenetes <phylum>,2,superkingdom
+200940,phylum,Thermodesulfobacteria <phylum>,2,superkingdom
+201174,phylum,Actinobacteria <phylum>,2,superkingdom
+203682,phylum,Planctomycetes <phylum>,2,superkingdom
+203691,phylum,Spirochaetes <phylum>,2,superkingdom
+204428,phylum,Chlamydiae <phylum>,2,superkingdom
+221216,phylum,Candidatus Parcubacteria,2,superkingdom
+256845,phylum,Lentisphaerae,2,superkingdom
+265317,phylum,Candidatus Poribacteria,2,superkingdom
+422282,phylum,candidate division WWE3,2,superkingdom
+456828,phylum,Candidatus Cloacimonetes,2,superkingdom
+508458,phylum,Synergistetes,2,superkingdom
+544448,phylum,Tenericutes,2,superkingdom
+640293,phylum,candidate division NC10,2,superkingdom
+651137,phylum,Thaumarchaeota,2157,superkingdom
+877183,phylum,Chromerida,2759,superkingdom
+928852,phylum,Candidatus Bathyarchaeota,2157,superkingdom
+1052815,phylum,Candidatus Aerophobetes,2,superkingdom
+1134404,phylum,Ignavibacteriae,2,superkingdom
+1293497,phylum,Nitrospinae,2,superkingdom
+1379697,phylum,candidate division Zixibacteria,2,superkingdom
+1462430,phylum,Candidatus Nanohaloarchaeota,2157,superkingdom
+1618339,phylum,candidate division CPR2,2,superkingdom
+1619053,phylum,Candidatus Peregrinibacteria,2,superkingdom
+1655434,phylum,Candidatus Lokiarchaeota,2157,superkingdom
+1703755,phylum,candidate division WOR-3,2,superkingdom
+1704031,phylum,candidate division KD3-62,2,superkingdom
+1706441,phylum,Candidatus Thorarchaeota,2157,superkingdom
+1729712,phylum,candidate division Hyd24-12,2,superkingdom
+1752735,phylum,Candidatus Wolfebacteria,2,superkingdom
+1752708,phylum,Candidatus Rokubacteria,2,superkingdom
+1752716,phylum,Candidatus Dadabacteria,2,superkingdom
+1752717,phylum,Candidatus Curtissbacteria,2,superkingdom
+1752718,phylum,Candidatus Daviesbacteria,2,superkingdom
+1752719,phylum,Candidatus Levybacteria,2,superkingdom
+1752720,phylum,Candidatus Gottesmanbacteria,2,superkingdom
+1752721,phylum,Candidatus Shapirobacteria,2,superkingdom
+1752722,phylum,Candidatus Woesebacteria,2,superkingdom
+1752723,phylum,Candidatus Roizmanbacteria,2,superkingdom
+1752724,phylum,Candidatus Pacebacteria,2,superkingdom
+1752725,phylum,Candidatus Collierbacteria,2,superkingdom
+1752726,phylum,Candidatus Beckwithbacteria,2,superkingdom
+1752727,phylum,Candidatus Campbellbacteria,2,superkingdom
+1752728,phylum,Candidatus Falkowbacteria,2,superkingdom
+1752729,phylum,Candidatus Nomurabacteria,2,superkingdom
+1752730,phylum,Candidatus Amesbacteria,2,superkingdom
+1752731,phylum,Candidatus Magasanikbacteria,2,superkingdom
+1752732,phylum,Candidatus Uhrbacteria,2,superkingdom
+1752733,phylum,Candidatus Yanofskybacteria,2,superkingdom
+1752734,phylum,Candidatus Kaiserbacteria,2,superkingdom
+1752736,phylum,Candidatus Adlerbacteria,2,superkingdom
+1752737,phylum,Candidatus Moranbacteria,2,superkingdom
+1752738,phylum,Candidatus Giovannonibacteria,2,superkingdom
+1752741,phylum,Candidatus Azambacteria,2,superkingdom
+1802339,phylum,Candidatus Tectomicrobia,2,superkingdom
+1853220,phylum,Rhodothermaeota,2,superkingdom
+1855361,phylum,Candidatus Kryptonia,2,superkingdom
